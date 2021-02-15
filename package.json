@@ -1,0 +1,14 @@
+{
+  "name": "nodework",
+  "version": "1.0.0",
+  "description": "learning node",
+  "main": "app.js",
+  "scripts": {
+    "develop": "nodemon  app.js"
+  },
+  "author": "Jon Andersen",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
